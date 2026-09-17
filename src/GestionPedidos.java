@@ -108,7 +108,7 @@ public class GestionPedidos {
                         break;
 
                     case 0: // ---------- SALIR ----------
-                        System.out.println("Cerrando el sistema Pizza-Track. ¡Buen turno, parce!");
+                        System.out.println("Cerrando el sistema Pizza-Track. ¡Hasta la proxima!");
                         break;
 
                     default:
